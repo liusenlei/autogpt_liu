@@ -149,7 +149,7 @@ devDependencies:
     specifier: ^14.0.0
     version: 14.1.2(react-dom@18.2.0)(react@18.2.0)
   '@types/micro-cors':
-    specifier: ^0.1.2
+    specifier: ^0.1.5
     version: 0.1.5
   '@types/node':
     specifier: ^20.8.6
