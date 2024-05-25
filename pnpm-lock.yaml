@@ -191,7 +191,7 @@ devDependencies:
     specifier: ^29.6.4
     version: 29.7.0(@types/node@20.10.4)
   jest-environment-jsdom:
-    specifier: ^29.6.3
+    specifier: ^29.7.0
     version: 29.7.0
   lint-staged:
     specifier: ^14.0.0
